@@ -1,0 +1,72 @@
+.montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+.roboto-slab{
+    font-family: 'Roboto Slab', serif;
+}
+.partners{
+    display: flex;
+    justify-content: space-between;
+    width: 770px;
+    margin: auto;
+    height: 165px;
+    align-items: center;
+}
+.footer__logos__item{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+.footer__container{
+    display: flex;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: $grey;
+    margin-left: 230px;
+}
+.footer__logos{
+    display: flex;
+    justify-content: space-between;
+    width: 195px;
+    margin-left: 120px;
+}
+.latest__news{
+    background-color: #222222;
+    color: white;
+    height: 364px;
+}
+.news__list__item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.news__list__item-twitter{
+    display: flex;align-items: flex-start;
+}
+.news__list__item-text{
+    margin-left: 18px;
+}
+.news__pic{
+    margin-right: 14px;
+
+}
+.news__columns{
+    display: flex;
+    margin: auto;
+    width: 895px;
+    padding-top: 60px;
+}
+.news__list{
+    list-style: none;
+}
+.small__text{
+    font-size: 12px;
+}
+.twitter__pic{
+    height: 100%;
+}

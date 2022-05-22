@@ -1,0 +1,25 @@
+.contact__tittle{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+.contact__button{
+    border: 3px solid #ffffff;
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color:  #ffffff;
+    padding: 16px 28px;
+    text-decoration: none;
+
+}
+.contact{
+    background-color: $green;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

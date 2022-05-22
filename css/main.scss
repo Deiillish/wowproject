@@ -1,0 +1,16 @@
+
+$green:#7cc576;
+$grey: #777777;
+
+@import "sections/header";
+@import "sections/homepage";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Montserrat:wght@700&family=Open+Sans:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Montserrat:wght@700&family=Open+Sans:wght@800&family=Roboto+Slab&display=swap');
+@import "sections/services.scss";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Montserrat:wght@700&family=Open+Sans:wght@800&family=Roboto+Slab&display=swap');
+@import "sections/relax.scss";
+@import "sections/project.scss";
+@import "sections/qualities.scss";
+@import "sections/feedback.scss";
+@import "sections/contact.scss";
+@import "sections/footer.scss";
